@@ -1,0 +1,40 @@
+.grid {
+    border: solid black 1px;
+    width: 180px;
+    height: 180px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+
+.endingBlock {
+    background-color: red;
+}
+
+.startingBlock {
+    background-color: blue;
+}
+
+.river {
+    background-color: lightblue;
+}
+
+.log {
+    background-color: brown;
+}
+
+.street {
+    background-color: grey;
+}
+
+.car {
+    background-color: black;
+}
+
+.frog {
+    background-color: green;
+}
